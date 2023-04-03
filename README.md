@@ -1,7 +1,7 @@
 # MERN-Dashboard
 MERN React Admin Dashboard
 
-![Example image](MERN-Dashboard)
+![Example image](MERN-Dashboard.png)
 
 This is a web application built with the MERN (MongoDB, Express, React, Node.js) stack. 
 It is an admin dashboard that allows users to view and manage data in a MongoDB database.
